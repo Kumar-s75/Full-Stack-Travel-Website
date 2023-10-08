@@ -74,8 +74,11 @@ object-fit: cover  !important;
 .card-img-overlay:hover{
     opacity:0.5;
     background-color: white;
+    
 }
-
+.card-img:hover{
+    scale:2;
+}
 .container{
     flex:1;
 }
